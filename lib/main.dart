@@ -29,7 +29,7 @@ class MyApp extends StatelessWidget {
           builder: (context, provider, child) {
             return Scaffold(
               appBar: AppBar(
-                title: SelectableText('Testing'),
+                title: SelectableText('Testing1'),
                 backgroundColor: MyColors.tu,
               ),
               drawer: Theme(
